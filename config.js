@@ -143,6 +143,14 @@ window.APP_CONFIG = {
           tags: ["Finance", "Dashboard"],
           githubUrl: "https://github.com/raulhorga/cheltuieli",
           pageUrl: "https://raulhorga.github.io/cheltuieli/"
+        },
+           {
+          id: "jurnal_calatorie",
+          label: "jurnal_calatorie",
+          description: "Jurnal de Calatorie",
+          tags: ["Finance", "Dashboard"],
+          githubUrl: "https://github.com/raulhorga/JuralCalatorie",
+          pageUrl: "https://raulhorga.github.io/JuralCalatorie/"
         }
       ]
     }
