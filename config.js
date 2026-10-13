@@ -151,6 +151,22 @@ window.APP_CONFIG = {
           tags: ["Finance", "Dashboard"],
           githubUrl: "https://github.com/raulhorga/JuralCalatorie",
           pageUrl: "https://raulhorga.github.io/JuralCalatorie/"
+        },
+           {
+          id: "work_task",
+          label: "work_task",
+          description: "Task Work",
+          tags: ["Finance", "Dashboard"],
+          githubUrl: "https://github.com/raulhorga/work_task",
+          pageUrl: "https://raulhorga.github.io/work_task/"
+        },
+           {
+          id: "wedding",
+          label: "wedding",
+          description: "Wedding Planning",
+          tags: ["Finance", "Dashboard"],
+          githubUrl: "https://github.com/raulhorga/wedding",
+          pageUrl: "https://raulhorga.github.io/wedding/"
         }
       ]
     }
