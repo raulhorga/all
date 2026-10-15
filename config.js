@@ -172,7 +172,7 @@ window.APP_CONFIG = {
           id: "line_simulator",
           label: "line_simulator",
           description: "Line Simulator",
-          tags: ["Work", "Simulator"],
+          tags: ["Finance", "Dashboard"],
           githubUrl: "https://github.com/raulhorga/work_simulator",
           pageUrl: "https://raulhorga.github.io/work_simulator/"
         }
