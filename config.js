@@ -167,6 +167,14 @@ window.APP_CONFIG = {
           tags: ["Finance", "Dashboard"],
           githubUrl: "https://github.com/raulhorga/wedding",
           pageUrl: "https://raulhorga.github.io/wedding/"
+        },
+           {
+          id: "line_simulator",
+          label: "line_simulator",
+          description: "Line Simulator",
+          tags: ["Work", "Simulator"],
+          githubUrl: "https://github.com/raulhorga/work_simulator",
+          pageUrl: "https://raulhorga.github.io/work_simulator/"
         }
       ]
     }
