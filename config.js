@@ -168,6 +168,14 @@ window.APP_CONFIG = {
           githubUrl: "https://github.com/raulhorga/wedding",
           pageUrl: "https://raulhorga.github.io/wedding/"
         },
+        {
+          id: "notite_comune",
+          label: "notite_comune",
+          description: "Notite Comune",
+          tags: ["Finance", "Dashboard"],
+          githubUrl: "https://github.com/raulhorga/notite_comune",
+          pageUrl: "https://raulhorga.github.io/notite_comune/"
+        },
            {
           id: "line_simulator",
           label: "line_simulator",
