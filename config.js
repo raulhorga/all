@@ -176,6 +176,26 @@ window.APP_CONFIG = {
           githubUrl: "https://github.com/raulhorga/notite_comune",
           pageUrl: "https://raulhorga.github.io/notite_comune/"
         },
+
+        
+          {
+          id: "contoare_ap",
+          label: "contoare_ap",
+          description: "contoare apartament",
+          tags: ["Finance", "Dashboard"],
+          githubUrl: "https://github.com/raulhorga/contoare_ap",
+          pageUrl: "https://raulhorga.github.io/contoare_ap/"
+        },
+          {
+          id: "planificare_an",
+          label: "planificare_an",
+          description: "planificare an",
+          tags: ["Finance", "Dashboard"],
+          githubUrl: "https://github.com/raulhorga/planificare_an",
+          pageUrl: "https://raulhorga.github.io/planificare_an/"
+        },
+
+        
            {
           id: "line_simulator",
           label: "line_simulator",
